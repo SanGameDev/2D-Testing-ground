@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90d8f86676f7b154bafca00c2ab6f292, type: 3}
+  m_Name: TileMapPaterns_So
+  m_EditorClassIdentifier: 
+  tileMapPaterns:
+    name: TileMapPatern
+    tiles:
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: -1, y: -1}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: 0, y: -1}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: 1, y: -1}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: -1, y: 0}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: 1, y: 0}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: -1, y: 1}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: 0, y: 1}
+    - tile: {fileID: 11400000, guid: 49f17e84e732e3a4a8615f95d5b5053a, type: 2}
+      position: {x: 1, y: 1}
